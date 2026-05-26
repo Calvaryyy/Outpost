@@ -68,6 +68,9 @@ To facilitate realistic **Initial Access Simulation**, a functional email ecosys
   * `jsmith@DC-01.local` (Password matches Domain credential: `Dallas2024@`)
 
 ---
+## Download Virtual Machines
+
+Refer to Download-Links.txt to find the download links for the virtual machines
 
 ## Target Attack Path & Learning Objectives
 
