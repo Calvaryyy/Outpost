@@ -6,7 +6,7 @@ An independent, full-chain Red Teaming and Adversary Emulation home lab environm
 
 ## The Backstory: Why I Built This
 
-I wanted to practice my red team skills in a truly realistic environment, so I tried simply installing GOAD. It completely refused to work. After messing around with broken automation, I finally just said, "Lemme just do it myself." And viola—we are here. 
+I wanted to practice my red team skills in a truly realistic environment, so I tried simply installing GOAD. It just didn't work, from one error to another. After messing around with broken automation, I finally just said, "Lemme just do it myself." And viola—we are here. 
 
 The entire purpose of this Active Directory environment is to provide a realistic scenario for people to practice full-chain red teaming. Although it makes use of relatively weak passwords and there is a very minimum configuration present right now (there isn't a single file share set up yet), it gives you a proper, unweakened corporate baseline. 
 
