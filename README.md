@@ -50,7 +50,7 @@ To make the lab work seamlessly in your personal environment:
 | :--- | :--- | :--- | :--- | :--- |
 | **Domain Administrator** | Enterprise Admin | `DC-01\Administrator` | `Ad1m$tr@tor24` | Full Domain Admin control. |
 | **IT Admin** | Non-Domain Admin Group | `itadmin@DC-01.local` | `Password123!@` | Local administrator privileges on endpoints. |
-| **John Doe** | Regular User (Machine 1) | `jdoe@DC-01.local` | `S3cur3Admin!` | Logged into `Active Directory Machine 1`. |
+| **John Doe** | Regular User (Machine 1) | `jdoe@DC-01.local` | `S3cur3Admin!` (Same password for Domain and Local) | Logged into `Active Directory Machine 1`. |
 | **Joe Smith** | Regular User (Machine 2) | `jsmith@DC-01.local` | `Dallas2024@` *(Domain)*<br>`Contoso2024#` *(Local)* | Logged into `Active Directory Machine 2`. |
 | **SQL Service** | Service Account | `svc_sql@DC-01.local` | `P@S$w0rd!` | **Has an active SPN configured** for Kerberoasting practice. |
 
